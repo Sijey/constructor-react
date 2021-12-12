@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/bar-constructor/static/css/main.a617e044.chunk.css",
-    "main.js": "/bar-constructor/static/js/main.efe4d050.chunk.js",
-    "main.js.map": "/bar-constructor/static/js/main.efe4d050.chunk.js.map",
-    "runtime-main.js": "/bar-constructor/static/js/runtime-main.545f20ed.js",
-    "runtime-main.js.map": "/bar-constructor/static/js/runtime-main.545f20ed.js.map",
-    "static/js/2.ce1c88fd.chunk.js": "/bar-constructor/static/js/2.ce1c88fd.chunk.js",
-    "static/js/2.ce1c88fd.chunk.js.map": "/bar-constructor/static/js/2.ce1c88fd.chunk.js.map",
-    "static/js/3.eb02a60a.chunk.js": "/bar-constructor/static/js/3.eb02a60a.chunk.js",
-    "static/js/3.eb02a60a.chunk.js.map": "/bar-constructor/static/js/3.eb02a60a.chunk.js.map",
-    "index.html": "/bar-constructor/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/bar-constructor/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.ce1c88fd.chunk.js.LICENSE.txt": "/bar-constructor/static/js/2.ce1c88fd.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/bar-constructor/static/media/logo.6ce24c58.svg"
+    "main.css": "/constructor-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/constructor-react/static/js/main.efe4d050.chunk.js",
+    "main.js.map": "/constructor-react/static/js/main.efe4d050.chunk.js.map",
+    "runtime-main.js": "/constructor-react/static/js/runtime-main.6da287f1.js",
+    "runtime-main.js.map": "/constructor-react/static/js/runtime-main.6da287f1.js.map",
+    "static/js/2.ce1c88fd.chunk.js": "/constructor-react/static/js/2.ce1c88fd.chunk.js",
+    "static/js/2.ce1c88fd.chunk.js.map": "/constructor-react/static/js/2.ce1c88fd.chunk.js.map",
+    "static/js/3.eb02a60a.chunk.js": "/constructor-react/static/js/3.eb02a60a.chunk.js",
+    "static/js/3.eb02a60a.chunk.js.map": "/constructor-react/static/js/3.eb02a60a.chunk.js.map",
+    "index.html": "/constructor-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/constructor-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ce1c88fd.chunk.js.LICENSE.txt": "/constructor-react/static/js/2.ce1c88fd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/constructor-react/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.545f20ed.js",
+    "static/js/runtime-main.6da287f1.js",
     "static/js/2.ce1c88fd.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.efe4d050.chunk.js"
