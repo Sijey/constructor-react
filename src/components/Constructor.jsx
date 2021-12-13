@@ -1,18 +1,14 @@
-import React, {useEffect} from 'react';
+import React, {useEffect, useState} from 'react';
 import config from "../config/environment";
+import axios from "axios";
 
 const Constructor = () => {
-  const key = '5u817CheLB9JUwhHFDW6QH58';
-  const getProducts = () => {
-    fetch(`${config.baseUrl}/products?page=1`, {
+  const [state, setState] = useState([]);
 
-      headers: {
-        'X-Auth-Token': key,
-      },
-      // mode: 'no-cors',
-    })
+  const getProducts = () => {
+    return axios.get(`${config.baseUrl}/products`)
         .then((res) => {
-          console.log(res);
+          setState(res.data);
         })
   }
 
@@ -22,7 +18,9 @@ const Constructor = () => {
 
   return (
       <div>
-
+        {state.items && state.items.map(item => (
+            <img src={item.asset_url} alt='image' />
+        ))}
       </div>
   );
 };
