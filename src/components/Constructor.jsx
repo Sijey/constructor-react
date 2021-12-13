@@ -1,16 +1,18 @@
 import React, {useEffect} from 'react';
+import config from "../config/environment";
 
 const Constructor = () => {
   const key = '5u817CheLB9JUwhHFDW6QH58';
   const getProducts = () => {
-    fetch('https://api.keepincrm.com/v1/products', {
+    fetch(`${config.baseUrl}/products?page=1`, {
+
       headers: {
-        Name: 'X-Auth-Token',
-        Value: key,
+        'X-Auth-Token': key,
       },
+      // mode: 'no-cors',
     })
-        .then(res => {
-          console.log(res)
+        .then((res) => {
+          console.log(res);
         })
   }
 
