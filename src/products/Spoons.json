@@ -1,0 +1,360 @@
+{
+  "items": [
+    {
+      "id": null,
+      "sku": "Bs-40cm-tear-cop",
+      "title": "Ложка 40 см с каплей медная",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "225,00",
+      "price_amount": 225,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/29622f0a53e99ff185f12d734a00c89d087992f1-original.jpg?1623529829",
+      "attachments": [
+        {
+          "title": "bar_spoon_tear_40_cm_copper.jpg",
+          "original_url": "https://s3.eu-central-1.amazonaws.com/pictures.keepincrm.com/promo/DANcIVqyzh5y/pictures/07842a951c35a232fb068e333a332437a92808d5-original.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZMBIN7ATM7KYL7P5%2F20211220%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20211220T124643Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=17feb2c044458dd32cb6d00da578c3a33b771a87d69a105922c372e963edbd0a"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "sku": "Bs-40cm-tear-bla",
+      "title": "Ложка 40 см с каплей черная",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "225,00",
+      "price_amount": 225,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/cbf22a61e63d5d255422152d8ebba6f1742221a9-original.jpg?1623529545"
+    },
+    {
+      "id": null,
+      "sku": "Bs-40cm-tear-sil",
+      "title": "Ложка 40 см з краплею / срібляста",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Наявність для Rozetka": true,
+        "Назва товару RU": "Ложка 40 см с каплей серебристая",
+        "Страна регистрации бренда": "Україна",
+        "Можно мыть в посудомоечной машине": "Так",
+        "Бренд-виробник товару": "Olin & Olin Bar tools"
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "185,00",
+      "price_amount": 185,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/62104391a895a4194ad531e0426d0ac83853c5cd-original.JPG?1623528948"
+    },
+    {
+      "id": null,
+      "sku": "Bs-33cm-skull-sil",
+      "title": "Барная ложка 33 см с черепом / Серебристый- Серебристый",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "349,00",
+      "price_amount": 349,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/e3efebc3d9e653bbaa5185fba2cc127db69acf0b-original.jpg?1623157745"
+    },
+    {
+      "id": null,
+      "sku": "Bs-43cm-skull-bla",
+      "title": "Барна ложка 43 см з черепом / Чорна",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Гарантия": "42 дні",
+        "Материал": "Неіржавна сталь",
+        "Страна-производитель товара": "Китай",
+        "Цвет": "Чорна",
+        "Длина": "43 см",
+        "Наявність для Rozetka": true,
+        "Назва товару RU": "Барная ложка 43 см с черепом / Черная",
+        "Страна регистрации бренда": "Україна",
+        "Можно мыть в посудомоечной машине": "Ні",
+        "Бренд-виробник товару": "Olin & Olin Bar tools"
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "399,00",
+      "price_amount": 399,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/890cc04c4cd75fbf9618150c53f987a852a48121-original.jpg?1623157746",
+      "attachments": [
+        {
+          "title": "skull_black_(2).jpg",
+          "original_url": "https://s3.eu-central-1.amazonaws.com/pictures.keepincrm.com/promo/DANcIVqyzh5y/pictures/1e7dbc7edab01b99002990acbad3e9b390f8b8c5-original.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZMBIN7ATM7KYL7P5%2F20211220%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20211220T124643Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2a84e5af6f4b432f4b71eb8c91e5dbd807798d6ac7d6b913cfae2a06cdfa1033"
+        },
+        {
+          "title": "skull_black_(1).jpg",
+          "original_url": "https://s3.eu-central-1.amazonaws.com/pictures.keepincrm.com/promo/DANcIVqyzh5y/pictures/ec4f4a7dda57bef0e024ef771665a1b54671cb9e-original.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZMBIN7ATM7KYL7P5%2F20211220%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20211220T124643Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=21912fc6a1935a8180aef84490ecd24d18f094abc085734417d4a70612378c51"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "sku": "Bs-27cm-mudl-cop",
+      "title": "Барная ложка 27 см с мадлером / Медный- Медный",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "225,00",
+      "price_amount": 225,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/4eac579b211cdc34cede1e42ed831f3ea364d31f-original.jpg?1623157744"
+    },
+    {
+      "id": null,
+      "sku": "Bs-43cm-pine-cop",
+      "title": "Барна ложка 43 см з ананасом / Мідна",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Наявність для Rozetka": true,
+        "Назва товару RU": "Барная ложка 43 см с ананасом / Медная"
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "399,00",
+      "price_amount": 399,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/9a284b7fab2eb8191063a66660fe61687d1ab219-original.jpg?1623157740",
+      "attachments": [
+        {
+          "title": "spoon_copper_(1).jpg",
+          "original_url": "https://s3.eu-central-1.amazonaws.com/pictures.keepincrm.com/promo/DANcIVqyzh5y/pictures/c8e984afec16b919d502800eba8f41d24f3bda88-original.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZMBIN7ATM7KYL7P5%2F20211220%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20211220T124643Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6686053d18cbc6180532d1bd215c5db34f98c19e139ea18f1e8b25f74dec5d73"
+        },
+        {
+          "title": "pine_copper.jpg",
+          "original_url": "https://s3.eu-central-1.amazonaws.com/pictures.keepincrm.com/promo/DANcIVqyzh5y/pictures/a3a1c1fa156611377e1c252e2a45e537da3bd11c-original.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZMBIN7ATM7KYL7P5%2F20211220%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20211220T124643Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8c9df4512d96dcc065e2c3a0d6dca893c67d919c37b22620b2acb8885430ea03"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "sku": "Bs-43cm-skull-sil",
+      "title": "Барна ложка 43 см з черепом / Срібляста",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Гарантия": "42 дні",
+        "Материал": "Неіржавна сталь",
+        "Страна-производитель товара": "Китай",
+        "Цвет": "Сріблястий",
+        "Длина": "43 см",
+        "Наявність для Rozetka": true,
+        "Назва товару RU": "Барная ложка 43 см с черепом / Серебристый",
+        "Страна регистрации бренда": "Україна",
+        "Можно мыть в посудомоечной машине": "Так",
+        "Бренд-виробник товару": "Olin & Olin Bar tools"
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "349,00",
+      "price_amount": 349,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/0bb970307ec89b014540fa5c573c1bb1c1d4b543-original.jpg?1623157744",
+      "attachments": [
+        {
+          "title": "skull_silver.jpg",
+          "original_url": "https://s3.eu-central-1.amazonaws.com/pictures.keepincrm.com/promo/DANcIVqyzh5y/pictures/3c641845b1947b9dfaf5bb99e78d1f45a0b20834-original.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZMBIN7ATM7KYL7P5%2F20211220%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20211220T124643Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7098077fd96547ccc3057a9b6cb1699ee077b6b5f923b8ac70ab3a2df6a93952"
+        },
+        {
+          "title": "spoon_silver.jpg",
+          "original_url": "https://s3.eu-central-1.amazonaws.com/pictures.keepincrm.com/promo/DANcIVqyzh5y/pictures/094f24d0dee1b20e5b61a3299a1c292f489f4b8e-original.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZMBIN7ATM7KYL7P5%2F20211220%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20211220T124643Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cfefd01479326ad7e0f99bb155e5c0e2ec1751612c505059f9adb7ff25f87c9f"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "sku": "Bs-33cm-pine-sil",
+      "title": "Барная ложка 33 см с ананасом / Серебристый- Серебристый",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "349,00",
+      "price_amount": 349,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/6b55288da1b7da95f58892d7af8ba8b995df8bc4-original.jpg?1623157742"
+    },
+    {
+      "id": null,
+      "sku": "Bs-30cm-tear-cop",
+      "title": "Барная ложка 30 см с каплей / Медный- Медный",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "225,00",
+      "price_amount": 225,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/1c48ce7ad5860de7229c7e0f861b69b124ec783b-original.jpg?1623157740"
+    },
+    {
+      "id": null,
+      "sku": "Bs-33cm-pine-cop",
+      "title": "Барная ложка 33 см с ананасом / Медный- Медный",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "399,00",
+      "price_amount": 399,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/90ceb023f9a1ae3188fb4e1d044d24ef12df530b-original.jpg?1623157742"
+    },
+    {
+      "id": null,
+      "sku": "Bs-30cm-tear-bla",
+      "title": "Барная ложка 30 см с каплей / Черный- Черный",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "225,00",
+      "price_amount": 225,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/55a3e5f755160ce3f9f1c558aa5cda2c06d25536-original.jpg?1623157742"
+    },
+    {
+      "id": null,
+      "sku": "Bs-27cm-mudl-sil",
+      "title": "Барная ложка 27 см с мадлером / Серебристый- Серебристый",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "185,00",
+      "price_amount": 185,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/66e3d8c651643293c88a4de4351f1786bd91535a-original.jpg?1623157743"
+    },
+    {
+      "id": null,
+      "sku": "Bs-33cm-skull-cop",
+      "title": "Барная ложка 33 см с черепом / Черный- Черный",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "399,00",
+      "price_amount": 399,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/cd9e0e81cbe30ebeac65bdc263478dca87a50d7c-original.jpg?1623157744"
+    },
+    {
+      "id": null,
+      "sku": "Bs-30cm-tear-sil",
+      "title": "Барная ложка 30 см с каплей / Серебристый- Серебристый",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Наявність для Rozetka": false
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "185,00",
+      "price_amount": 185,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/352b045de2886c1aa16c87ed1279ff563ff7d404-original.JPG?1623157742"
+    },
+    {
+      "id": null,
+      "sku": "Bs-43cm-pine-sil",
+      "title": "Барна ложка 43 см з ананасом / Срібляста",
+      "unit": "шт",
+      "category_id": 255322,
+      "custom_fields": {
+        "Гарантия": "42 дні",
+        "Материал": "Неіржавна сталь",
+        "Страна-производитель товара": "Китай",
+        "Цвет": "Сріблястий",
+        "Длина": "43 см",
+        "Наявність для Rozetka": true,
+        "Назва товару RU": "Барная ложка 43 см с ананасом",
+        "Промо ціна": 299,
+        "Страна регистрации бренда": "Україна",
+        "Можно мыть в посудомоечной машине": "Так",
+        "Бренд-виробник товару": "Olin & Olin Bar tools"
+      },
+      "category": {
+        "id": 255322,
+        "name": "Ложки"
+      },
+      "price": "349,00",
+      "price_amount": 349,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/1d16f0809684e22a227c564c4be3e8ff780ae64a-original.jpg?1623157742",
+      "attachments": [
+        {
+          "title": "pine_silver.jpg",
+          "original_url": "https://s3.eu-central-1.amazonaws.com/pictures.keepincrm.com/promo/DANcIVqyzh5y/pictures/792a89a97e2900c095876c84d8a5cea70dbb1900-original.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZMBIN7ATM7KYL7P5%2F20211220%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20211220T124643Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e19329d6518d586be75786ee4f2ead0236141cdc41e63ac3fdd7d01f0d8ea7fa"
+        },
+        {
+          "title": "spoon_silver.jpg",
+          "original_url": "https://s3.eu-central-1.amazonaws.com/pictures.keepincrm.com/promo/DANcIVqyzh5y/pictures/d513d26b55d5a7676737a53d2d34b4104cee141a-original.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZMBIN7ATM7KYL7P5%2F20211220%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20211220T124643Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c11dfe0c29539df4bf99aff5345fbe9a2ecfcb2392aa72724d813c440bbc427d"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "total_count": 16,
+    "current_page": 1,
+    "total_pages": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "id": null,
+      "sku": "Squeezer-7cm-za-1",
+      "title": "Сквизер",
+      "unit": "шт",
+      "category_id": 255319,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255319,
+        "name": "Сквізери"
+      },
+      "price": "345,00",
+      "price_amount": 345,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/96ab32deb1cc8d9a6bfb016a505aeb3300bca52b-original.jpg?1623529104"
+    }
+  ],
+  "pagination": {
+    "total_count": 1,
+    "current_page": 1,
+    "total_pages": 1
+  }
+}

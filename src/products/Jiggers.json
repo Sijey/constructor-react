@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "id": null,
+      "sku": "Jig-60x30-bell-leo-silv",
+      "title": "Сріблястий джигер 60/30 з діленнями",
+      "unit": "шт",
+      "category_id": 255321,
+      "custom_fields": {
+        "External ID": "",
+        "Наявність для Rozetka": false,
+        "Назва товару RU": "Серебристый джиггер 60/30 с делениями",
+        "Промо ціна": 249,
+        "Страна регистрации бренда": "Україна",
+        "Можно мыть в посудомоечной машине": "Так",
+        "Бренд-виробник товару": "Olin & Olin Bar tools"
+      },
+      "category": {
+        "id": 255321,
+        "name": "Джигери"
+      },
+      "price": "299,00",
+      "price_amount": 299,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/f40cd97652d8fb8061f5410f8819f90c980682e3-original.jpg?1635153950"
+    },
+    {
+      "id": null,
+      "sku": "Jig-60x30-bell-leo-cop",
+      "title": "Мідний джигер 60/30 з діленнями",
+      "unit": "шт",
+      "category_id": 255321,
+      "custom_fields": {
+        "External ID": "",
+        "Наявність для Rozetka": true,
+        "Назва товару RU": "Медный джиггер 60/30 с делениями",
+        "Промо ціна": 299,
+        "Страна регистрации бренда": "Україна",
+        "Можно мыть в посудомоечной машине": "Ні",
+        "Бренд-виробник товару": "Olin & Olin Bar tools"
+      },
+      "category": {
+        "id": 255321,
+        "name": "Джигери"
+      },
+      "price": "329,00",
+      "price_amount": 329,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/95db690786c4a4ec715c02abc3fe8df2b46aa746-original.jpg?1635153548"
+    },
+    {
+      "id": null,
+      "sku": "Jig-60x30-bell-leo-bla",
+      "title": "Чорний джигер 60/30 з діленнями",
+      "unit": "шт",
+      "category_id": 255321,
+      "custom_fields": {
+        "External ID": "",
+        "Наявність для Rozetka": true,
+        "Назва товару RU": "Черный джиггер 60/60 с делениями",
+        "Промо ціна": 299,
+        "Страна регистрации бренда": "Україна",
+        "Можно мыть в посудомоечной машине": "Ні",
+        "Бренд-виробник товару": "Olin & Olin Bar tools"
+      },
+      "category": {
+        "id": 255321,
+        "name": "Джигери"
+      },
+      "price": "329,00",
+      "price_amount": 329,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/c74618817ecdc340a083c161463ad485d003d8f7-original.jpg?1634541904"
+    },
+    {
+      "id": null,
+      "sku": "Jig-50x25-jap-bla-2",
+      "title": "Чорний джигер 50/25 з діленнями",
+      "unit": "шт",
+      "category_id": 255321,
+      "custom_fields": {
+        "External ID": "BJcSki1ldnm5ZEFf3M0o",
+        "Наявність для Rozetka": true,
+        "Назва товару RU": "Черный джиггер 50/25 с делениями",
+        "Страна регистрации бренда": "Україна",
+        "Можно мыть в посудомоечной машине": "Ні",
+        "Бренд-виробник товару": "Olin & Olin Bar tools"
+      },
+      "category": {
+        "id": 255321,
+        "name": "Джигери"
+      },
+      "price": "295,00",
+      "price_amount": 295,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/08d0e3b837d5993af0e06833c106093e6a637535-original.jpg?1623875211"
+    },
+    {
+      "id": null,
+      "sku": "Jig-50x25-jap-silv-1",
+      "title": "Сріблястий джигер 50/25 з діленнями",
+      "unit": "шт",
+      "category_id": 255321,
+      "custom_fields": {
+        "Наявність для Rozetka": true,
+        "Назва товару RU": "Серебряный джиггер 50/25 с делениями",
+        "Страна регистрации бренда": "Україна",
+        "Можно мыть в посудомоечной машине": "Так",
+        "Бренд-виробник товару": "Olin & Olin Bar tools"
+      },
+      "category": {
+        "id": 255321,
+        "name": "Джигери"
+      },
+      "price": "199,00",
+      "price_amount": 199,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/322efd48de565a54256f3608fb53905a0f196d38-original.JPG?1623157768"
+    },
+    {
+      "id": null,
+      "sku": "Jig-50x25-jap-cop-1",
+      "title": "Мідний джигер 50/25 з діленнями",
+      "unit": "шт",
+      "category_id": 255321,
+      "custom_fields": {
+        "Наявність для Rozetka": true,
+        "Страна регистрации бренда": "Україна"
+      },
+      "category": {
+        "id": 255321,
+        "name": "Джигери"
+      },
+      "price": "295,00",
+      "price_amount": 295,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/6e256d0c298bbe973181d12a1145c33df63b8cfc-original.jpg?1623157768"
+    }
+  ],
+  "pagination": {
+    "total_count": 6,
+    "current_page": 1,
+    "total_pages": 1
+  }
+}

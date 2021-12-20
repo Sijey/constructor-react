@@ -18,6 +18,7 @@ const useStyles = makeStyles((theme) => ({
   },
 
    dropdown: {
+     transition: '2s',
      '& h3': {
        background: 'grey',
        height: 50,
@@ -29,11 +30,11 @@ const useStyles = makeStyles((theme) => ({
    }
 }));
 
-const Dropdown = ({title, categoryId, selectProduct}) => {
+const Dropdown = ({title, categoryId, selectProduct, items}) => {
   const classes = useStyles();
   const [page, setPage] = useState<any>(1);
   const [isOpen, setIsOpen] = useState(false);
-  const [products, setProducts] = useState<any>([]);
+  const [products, setProducts] = useState<any>(items);
 
   const getProducts = (page) => {
     return axios.get(`${config.baseUrl}/products`, {params: {page: `page=${page}`, q: `q[category_id_eq]=${categoryId}` }})
@@ -42,9 +43,9 @@ const Dropdown = ({title, categoryId, selectProduct}) => {
         })
   }
 
-  useEffect(() => {
-    isOpen && getProducts(page);
-  }, [page, isOpen]);
+  // useEffect(() => {
+  //   isOpen && getProducts(page);
+  // }, [page, isOpen]);
 
   const changePage = (e, value) => {
     setPage(value);
@@ -63,20 +64,20 @@ const Dropdown = ({title, categoryId, selectProduct}) => {
           {products.items && products.items.map(item => (
               <img
                   src={item.asset_url}
-                  key={item.id}
+                  key={item.sku}
                   style={{height: '150px', width: '150px'}}
                   onClick={() => {selectProduct(item); openBlock()}}
               />
           ))}
         </div>
 
-          {products?.items && <Pagination
-          count={products.pagination.total_pages}
-          shape="rounded"
-          onChange={changePage}
-          className={classes.root}
-          />}
-        </> }
+          {/*{products?.items && <Pagination*/}
+          {/*count={products.pagination.total_pages}*/}
+          {/*shape="rounded"*/}
+          {/*onChange={changePage}*/}
+          {/*className={classes.root}*/}
+          {/*/>}*/}
+        </>}
       </div>
   );
 };

@@ -1,0 +1,185 @@
+{
+  "items": [
+    {
+      "id": null,
+      "sku": "Str-hawt-bla-01",
+      "title": "Стрейнер хавторн черный",
+      "unit": "шт",
+      "category_id": 255320,
+      "custom_fields": {
+        "External ID": "nXgfalhabAEypsehHyA4",
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255320,
+        "name": "Стрейнери"
+      },
+      "price": "299,00",
+      "price_amount": 299,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/220787ca67a24a12d540af5fcf5ee5c5e6deb0b0-original.jpg?1623875211"
+    },
+    {
+      "id": null,
+      "sku": "Str-75x40mm-fine-bla-01",
+      "title": "Файн стрейнер черный",
+      "unit": "шт",
+      "category_id": 255320,
+      "custom_fields": {
+        "External ID": "VSNgDAaT5eZm93t6HNiH",
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255320,
+        "name": "Стрейнери"
+      },
+      "price": "158,00",
+      "price_amount": 158,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/07d213c906336a8e42a1fd9137a0c2868fd543b8-original.jpg?1623875211"
+    },
+    {
+      "id": null,
+      "sku": "Str-75x40mm-fine-silv-01",
+      "title": "Файн стрейнер сріблястий",
+      "unit": "шт",
+      "category_id": 255320,
+      "custom_fields": {
+        "Наявність для Rozetka": true,
+        "Назва товару RU": "Файн стрейнер серебристый"
+      },
+      "category": {
+        "id": 255320,
+        "name": "Стрейнери"
+      },
+      "price": "89,00",
+      "price_amount": 89,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/76b37590442846a19d062d338f434c087d6edf8a-original.jpg?1623157766"
+    },
+    {
+      "id": null,
+      "sku": "Str-hawt-we-silv-02",
+      "title": "Стрейнер хавторн с ушками серебряный",
+      "unit": "шт",
+      "category_id": 255320,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255320,
+        "name": "Стрейнери"
+      },
+      "price": "340,00",
+      "price_amount": 340,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/0e94e6cfa68fab3abd22ebac911daff6b3270b86-original.jpg?1623157766"
+    },
+    {
+      "id": null,
+      "sku": "Str-hawt-silv-01",
+      "title": "Стрейнер Хавторн / сріблястий",
+      "unit": "шт",
+      "category_id": 255320,
+      "custom_fields": {
+        "Наявність для Rozetka": true,
+        "Назва товару RU": "Стрейнер хавторн серебряный",
+        "Страна регистрации бренда": "Україна",
+        "Можно мыть в посудомоечной машине": "Так",
+        "Бренд-виробник товару": "Olin & Olin Bar tools"
+      },
+      "category": {
+        "id": 255320,
+        "name": "Стрейнери"
+      },
+      "price": "279,00",
+      "price_amount": 279,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/1c06b151277898bce765e4427f360e5f613a0716-original.jpg?1623157762"
+    },
+    {
+      "id": null,
+      "sku": "Str-hawt-cop-01",
+      "title": "Стрейнер хавторн медный",
+      "unit": "шт",
+      "category_id": 255320,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255320,
+        "name": "Стрейнери"
+      },
+      "price": "299,00",
+      "price_amount": 299,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/bd9606c36f4dfc205bb07a2d5c1587fdd0a85072-original.jpg?1623157762"
+    },
+    {
+      "id": null,
+      "sku": "Str-hawt-we-cop-02",
+      "title": "Стрейнер хавторн с ушками медный",
+      "unit": "шт",
+      "category_id": 255320,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255320,
+        "name": "Стрейнери"
+      },
+      "price": "340,00",
+      "price_amount": 340
+    },
+    {
+      "id": null,
+      "sku": "Str-jul-silv-01",
+      "title": "Джулеп стрейнер серебряный",
+      "unit": "шт",
+      "category_id": 255320,
+      "custom_fields": {
+        "Наявність для Rozetka": false
+      },
+      "category": {
+        "id": 255320,
+        "name": "Стрейнери"
+      },
+      "price": "199,00",
+      "price_amount": 199,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/29384fafdf92d9433aa36e8072b7e27e9b2f3117-original.jpg?1623157764"
+    },
+    {
+      "id": null,
+      "sku": "Str-jul-cop-01",
+      "title": "Джулеп стрейнер медный",
+      "unit": "шт",
+      "category_id": 255320,
+      "custom_fields": {
+        "Наявність для Rozetka": false
+      },
+      "category": {
+        "id": 255320,
+        "name": "Стрейнери"
+      },
+      "price": "299,00",
+      "price_amount": 299,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/a5756d48050ef5e2ab1dbaecb1ae1fb7eabacc54-original.jpg?1623157762"
+    },
+    {
+      "id": null,
+      "sku": "Str-75x40mm-fine-cop-01",
+      "title": "Файн стрейнер медный",
+      "unit": "шт",
+      "category_id": 255320,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255320,
+        "name": "Стрейнери"
+      },
+      "price": "158,00",
+      "price_amount": 158,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/fda5eacbcaa6366935f3b1b740c3986190f9b1d2-original.jpg?1623157764"
+    }
+  ],
+  "pagination": {
+    "total_count": 10,
+    "current_page": 1,
+    "total_pages": 1
+  }
+}

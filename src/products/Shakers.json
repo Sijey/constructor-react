@@ -1,0 +1,319 @@
+{
+  "items": [
+    {
+      "id": null,
+      "sku": "Sh-500-jbar-bla",
+      "title": "Японский Коблер Шейкер \"Барон\" 500 мл / Черный- Черный",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "699,00",
+      "price_amount": 699,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/c28027c27abb38821469120e31fecff9bb013739-original.jpg?1623157750"
+    },
+    {
+      "id": null,
+      "sku": "Sh-500-calabr-bla",
+      "title": "Французский Шейкер \"Calabrese\" 500 мл / Черный- Черный",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "695,00",
+      "price_amount": 695,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/ad0e579082e45a6e6ee777ea70c1a184c10e5c37-original.jpg?1623157751"
+    },
+    {
+      "id": null,
+      "sku": "Sh-600-fr-bla",
+      "title": "Французский Шейкер 600 мл / Черный- Черный",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "695,00",
+      "price_amount": 695,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/3396e0355b7a948899ae5375f0e0f41f2c993308-original.jpg?1623157750"
+    },
+    {
+      "id": null,
+      "sku": "Sh-750-550-bost-silv",
+      "title": "Шейкер Бостон 750+550 мл / Сріблястий",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": true,
+        "Назва товару RU": "Шейкер Бостон 750+550 мл / Серебристый",
+        "Страна регистрации бренда": "Україна",
+        "Можно мыть в посудомоечной машине": "Так",
+        "Бренд-виробник товару": "Olin & Olin Bar tools"
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "679,00",
+      "price_amount": 679,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/16e6ddc00626f8912ff813786dd647e56c210a05-original.jpg?1623157747"
+    },
+    {
+      "id": null,
+      "sku": "Sh-500-calabr-silv",
+      "title": "Французский Шейкер \"Calabrese\" 500 мл / Серебристый- Серебристый",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "495,00",
+      "price_amount": 495,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/c657faa8f9f8df581784ce276dddd1a874b72a05-original.jpg?1623157750"
+    },
+    {
+      "id": null,
+      "sku": "Sh-600-fr-silv",
+      "title": "Французский Шейкер 600 мл / Серебристый- Серебристый",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": false
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "495,00",
+      "price_amount": 495,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/028133260c2924ebd7a9e5a5d2b8ee3be5995cd5-original.jpg?1623157749"
+    },
+    {
+      "id": null,
+      "sku": "Sh-750-550-bost-bla",
+      "title": "Шейкер Бостон 750+550 мл / Черный- Черный",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "729,00",
+      "price_amount": 729,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/b2199bd5c67fb728a062525c0cbb85d0fe34b501-original.jpg?1623157747"
+    },
+    {
+      "id": null,
+      "sku": "Sh-550-cob-bla",
+      "title": "Коблер Шейкер 550 мл / Черный- Черный",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "499,00",
+      "price_amount": 499,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/813f52630c5380b371b644f39dc39161d1e5958e-original.jpg?1623157753"
+    },
+    {
+      "id": null,
+      "sku": "Sh-750-550-bost-cop",
+      "title": "Шейкер Бостон 750+550 мл / Медный- Медный",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "729,00",
+      "price_amount": 729,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/8b2f8cd79adbb7a30729f3d3285c88a99209d66f-original.jpg?1623157749"
+    },
+    {
+      "id": null,
+      "sku": "Sh-550-cob-cop",
+      "title": "Коблер Шейкер 550 мл / Медный- Медный",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": false
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "445,00",
+      "price_amount": 445,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/93776c35e15662ca9ab2c90b1965f530dce7b0ed-original.jpg?1623157754"
+    },
+    {
+      "id": null,
+      "sku": "Sh-500-jbar-cop",
+      "title": "Японский Коблер Шейкер \"Барон\" 500 мл / Медный- Медный",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "699,00",
+      "price_amount": 699,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/d3d073c1a1eb4c165961a8ef8c445b202b454801-original.jpg?1623157750"
+    },
+    {
+      "id": null,
+      "sku": "Sh-500-calabr-cop",
+      "title": "Французский Шейкер \"Calabrese\" 500 мл / Медный- Медный",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "695,00",
+      "price_amount": 695,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/9f523c845340a0710eb0634b035fd751a473c49c-original.jpg?1623157751"
+    },
+    {
+      "id": null,
+      "sku": "Sh-750-550-bost-tiki",
+      "title": "Шейкер Бостон 750+550 мл Тики",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": false
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "999,00",
+      "price_amount": 999,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/a2b52c0e5f69d8c9d8962b1b94ebb4c913c7e256-original.jpg?1623157748"
+    },
+    {
+      "id": null,
+      "sku": "Sh-600-fr-cop",
+      "title": "Французский Шейкер 600 мл / Медный- Медный",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "695,00",
+      "price_amount": 695,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/7672dd75be5573f518ede656a743a0d2dd87dd9a-original.jpg?1623157750"
+    },
+    {
+      "id": null,
+      "sku": "Sh-750-480-bost-gla",
+      "title": "Шейкер Бостон 750+480 мл Сталь+Стекло",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": false
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "579,00",
+      "price_amount": 579,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/2c59cbcc696da17cdb36aa06e54d49358dad9302-original.jpg?1623157748"
+    },
+    {
+      "id": null,
+      "sku": "Sh-500-jbar-silv",
+      "title": "Японский Коблер Шейкер \"Барон\" 500 мл / Серебристый- Серебристый",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "659,00",
+      "price_amount": 659,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/e3418f60255094f87adcde533dc611f35efbd503-original.jpg?1623157749"
+    },
+    {
+      "id": null,
+      "sku": "Sh-550-cob-silv",
+      "title": "Коблер Шейкер 550 мл / Серебристый- Серебристый",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": false
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "395,00",
+      "price_amount": 395,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/35b780dfceff637a5129ea11ca27adc848fbf5f1-original.jpg?1623157753"
+    },
+    {
+      "id": null,
+      "sku": "Sh-750-550-bost-rnb",
+      "title": "Шейкер Бостон 750+550 мл Радужный",
+      "unit": "шт",
+      "category_id": 251685,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 251685,
+        "name": "Шейкери"
+      },
+      "price": "999,00",
+      "price_amount": 999,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/b856f5d5debc2f98b5c5e17de5d7030f8ee155c6-original.jpg?1623529355"
+    }
+  ],
+  "pagination": {
+    "total_count": 18,
+    "current_page": 1,
+    "total_pages": 1
+  }
+}

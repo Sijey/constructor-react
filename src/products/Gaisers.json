@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "id": null,
+      "sku": "Po-bla-1H",
+      "title": "Гейзер чорний",
+      "unit": "шт",
+      "category_id": 214626,
+      "custom_fields": {
+        "External ID": "XCb1tmRTj4mTdxPCIF5G",
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 214626,
+        "name": "Гейзери"
+      },
+      "price": "35,00",
+      "price_amount": 35,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/41bb92bc935385e66620314883273b42bfdf59a7-original.jpg?1639826189"
+    },
+    {
+      "id": null,
+      "sku": "Po-silv-1H",
+      "title": "Гейзер сріблястий",
+      "unit": "шт",
+      "category_id": 214626,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 214626,
+        "name": "Гейзери"
+      },
+      "price": "27,00",
+      "price_amount": 27,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/a1e44d4944eae322f1372742402267cae818d761-original.jpg?1629450609"
+    },
+    {
+      "id": null,
+      "sku": "Po-cop-1H",
+      "title": "Гейзер мідного кольору",
+      "unit": "шт",
+      "category_id": 214626,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 214626,
+        "name": "Гейзери"
+      },
+      "price": "35,00",
+      "price_amount": 35,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/2043cef1f42bcf60ed552e99e87a9e425ce5b168-original.jpg?1629450609"
+    },
+    {
+      "id": null,
+      "sku": "Po-bla-1",
+      "title": "Гейзер чорний з ковпачком",
+      "unit": "шт",
+      "category_id": 214626,
+      "custom_fields": {
+        "External ID": "XCb1tmRTj4mTdxPCIF5G",
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 214626,
+        "name": "Гейзери"
+      },
+      "price": "38,00",
+      "price_amount": 38,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/35e840c25d77ef231fca50d829c9e0873a3827a6-original.JPG?1623875211"
+    },
+    {
+      "id": null,
+      "sku": "Po-silv-1",
+      "title": "Гейзер сріблястий",
+      "unit": "шт",
+      "category_id": 214626,
+      "custom_fields": {
+        "Наявність для Rozetka": false
+      },
+      "category": {
+        "id": 214626,
+        "name": "Гейзери"
+      },
+      "price": "24,00",
+      "price_amount": 24,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/8e46e5696031fa2786babb04f2c945d7de2aadb4-original.jpg?1623157741"
+    },
+    {
+      "id": null,
+      "sku": "Po-silv-2",
+      "title": "Гейзер сріблястий з ковпачком",
+      "unit": "шт",
+      "category_id": 214626,
+      "custom_fields": {
+        "Наявність для Rozetka": false
+      },
+      "category": {
+        "id": 214626,
+        "name": "Гейзери"
+      },
+      "price": "25,00",
+      "price_amount": 25,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/b3db351db89d1143d5c902d3e0d25781b3f413cc-original.jpg?1623529222"
+    },
+    {
+      "id": null,
+      "sku": "Po-cop-1",
+      "title": "Гейзер мідного кольору з ковпачком",
+      "unit": "шт",
+      "category_id": 214626,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 214626,
+        "name": "Гейзери"
+      },
+      "price": "38,00",
+      "price_amount": 38,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/07dfbad6593839baceba29599ce596ee246effbe-original.jpg?1623529192"
+    }
+  ],
+  "pagination": {
+    "total_count": 7,
+    "current_page": 1,
+    "total_pages": 1
+  }
+}

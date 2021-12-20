@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "id": null,
+      "sku": "Md-23cm-bla-1",
+      "title": "Черный мадлер",
+      "unit": "шт",
+      "category_id": 255323,
+      "custom_fields": {
+        "External ID": "RX4ZtKmz62HSBB06Nf7k",
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255323,
+        "name": "Мадлери"
+      },
+      "price": "195,00",
+      "price_amount": 195,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/03ee0a26693d69ae89a388b538e161c752dab6b8-original.jpg?1623875211"
+    },
+    {
+      "id": null,
+      "sku": "Md-23cm-silv-1",
+      "title": "Сріблястий мадлер",
+      "unit": "шт",
+      "category_id": 255323,
+      "custom_fields": {
+        "Наявність для Rozetka": true,
+        "Назва товару RU": "Серебряный мадлер"
+      },
+      "category": {
+        "id": 255323,
+        "name": "Мадлери"
+      },
+      "price": "167,00",
+      "price_amount": 167,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/90b84c548452d5d82f56a129184e688ff7c42be0-original.jpg?1623157740"
+    },
+    {
+      "id": null,
+      "sku": "Md-23cm-cop-1",
+      "title": "Медный мадлер",
+      "unit": "шт",
+      "category_id": 255323,
+      "custom_fields": {
+        "Наявність для Rozetka": true
+      },
+      "category": {
+        "id": 255323,
+        "name": "Мадлери"
+      },
+      "price": "195,00",
+      "price_amount": 195,
+      "asset_url": "https://pictures.keepincrm.com/promo/DANcIVqyzh5y/products/6bc1e4fbb71db69b773331cad972450269c668b6-original.jpg?1623157742"
+    }
+  ],
+  "pagination": {
+    "total_count": 3,
+    "current_page": 1,
+    "total_pages": 1
+  }
+}
