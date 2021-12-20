@@ -3,6 +3,7 @@ import config from "../config/environment";
 import axios from "axios";
 import { Pagination } from "@mui/material";
 import { makeStyles } from '@mui/styles';
+import Dropdown from "./Dropdown";
 
 interface ListInterface {
     items: object[];
@@ -10,55 +11,38 @@ interface ListInterface {
 }
 
 const useStyles = makeStyles((theme) => ({
-  root: {
-    "& > *": {
-      justifyContent:"center",
-      display:'flex',
-      // position: 'fixed',
-      // bottom: 30,
-      width: '100%',
-    },
-
-    '& .MuiPagination-ul': {
-      marginBottom: '30px',
-    }
+  selectedImage: {
+    width: 100,
+    height: 100,
+    margin: 10,
   }
 }));
 
 const Constructor = () => {
   const [state, setState] = useState<any>([]);
-  const [page, setPage] = useState<any>(1);
+
+  const [shaker, setShaker] = useState<any>({asset_url: null});
+  const [jigger, setJigger] = useState<any>({asset_url: null});
+  const [stainer, setStainer] = useState<any>({asset_url: null});
+  const [madler, setMadler] = useState<any>({asset_url: null});
 
   const classes = useStyles();
 
-  const getProducts = (page) => {
-    return axios.get(`${config.baseUrl}/products`, {params: {page: `page=${page}`}})
-        .then((res) => {
-          setState(res.data);
-        })
-  }
 
-  useEffect(() => {
-    getProducts(page);
-  }, [page]);
-
-  const changePage = (e, value) => {
-      setPage(value);
-  }
 
   return (
       <div>
-        <div style={{marginBottom: '30px'}}>
-          {state?.items && state.items.map(item => (
-              <img src={item.asset_url} key={item.id} style={{height: '150px', width: '150px'}}  alt='' />
-          ))}
+        <div>
+          <img className={classes.selectedImage} src={shaker.asset_url} />
+          <img className={classes.selectedImage} src={jigger.asset_url} />
+          <img className={classes.selectedImage} src={stainer.asset_url} />
+          <img className={classes.selectedImage} src={madler.asset_url} />
         </div>
-          {state?.items && <Pagination
-              count={state.pagination.total_pages}
-              shape="rounded"
-              onChange={changePage}
-              className={classes.root}
-          />}
+        <Dropdown title={'Шейкер'} categoryId={251685} selectProduct={setShaker} />
+        <Dropdown title={'Джиггер'} categoryId={255321} selectProduct={setJigger} />
+        <Dropdown title={'Cтрейнер'} categoryId={255320} selectProduct={setStainer} />
+        <Dropdown title={'Мадлер'} categoryId={255323} selectProduct={setMadler} />
+
       </div>
   );
 };
